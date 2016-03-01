@@ -1,0 +1,22 @@
+{
+  "name": "showcase_webpack_resolve",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bastien Gandouet <bastien@mozaiqu.es>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "babel-loader": "^6.2.2",
+    "babel-polyfill": "^6.5.0",
+    "babel-preset-es2015-webpack": "^6.3.14",
+    "bootstrap": "^4.0.0-alpha.2",
+    "jquery": "^2.2.0",
+    "webpack": "^2.0.7-beta"
+  }
+}
